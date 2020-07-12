@@ -3,7 +3,7 @@
 I make elegantly professional **💻 computer graphics and 🌐 computer vision** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on fluid simulation with deep learning.
-* 💼   Senior Back End Engineer at Alibaba Group.
+* 💼   Have received special offer at Alibaba Group (automatic car).
 * 🎓   Bachelor of Engineering in Computer Engineering and Art & Literature.
 * 🌱   Currently learning Math & Computers.
 * 💬   Do read my resume here: [Resume](https://drive.google.com/file/d/1LGju2fvVgel0rFqiJKZe5GT-v95x82jy/view)
