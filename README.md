@@ -6,7 +6,7 @@ I make elegantly professional **💻 computer graphics and 🌐 computer vision*
 * 💼   Have received special offer at Alibaba Group (automatic car).
 * 🎓   Bachelor of Engineering in Computer Engineering and Art & Literature.
 * 🌱   Currently learning Math & Computers.
-* 💬   Do read my resume here: [Resume](https://drive.google.com/file/d/1LGju2fvVgel0rFqiJKZe5GT-v95x82jy/view)
+* 💬   Do read my resume here: [Resume](https://drive.google.com/file/d/1aNWE4pY78-aBIhiNe473-2ZU29hHL3x9/view?usp=sharing)
 * 📚   Reading more about C++, Harry Potter and how the computer works.
 * 💻   With 3~4 years' computer science and technology education and 1 years' graphics working experience.
 * ⛵   Encouraging people for open source collaborations.
