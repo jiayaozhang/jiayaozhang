@@ -3,12 +3,11 @@
 I make elegantly professional **💻 computer graphics and 🌐 computer vision** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on fluid simulation with deep learning.
-* 💼   Have received special offer at Alibaba Group (automatic car).
+* 💼   Have received special offer from Saudi Aramaco about High Performance Computing.
 * 🎓   Bachelor of Engineering in Computer Engineering and Art & Literature.
 * 🌱   Currently learning Math & Computers.
-* 💬   Do read my resume here: [Resume](https://drive.google.com/file/d/1aNWE4pY78-aBIhiNe473-2ZU29hHL3x9/view?usp=sharing)
-* 📚   Reading more about C++, Harry Potter and how the computer works.
-* 💻   With 3~4 years' computer science and technology education and 1 years' graphics working experience.
+* 📚   Reading more about C++, CUDA programming and numerical analysis.
+* 💻   With 4~5 years' computer science and technology education and 2 years' graphics working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [website](https://sites.google.com/view/jiayao-zhang/home).
 * 📬   jiayao_zhang@outlook.com
