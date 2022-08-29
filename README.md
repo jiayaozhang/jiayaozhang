@@ -13,7 +13,7 @@ I make elegantly professional **💻 computer graphics and 🌐 computer vision*
 * 📬   jiayao_zhang@outlook.com
 * ✍🏻   I write my personal thoughts on Programming & Tech here.
 
-## Get in touch
+## Get in touch 
 
 🕵 Take a look at my repositories and let's get in touch!
 
