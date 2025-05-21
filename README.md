@@ -2,12 +2,12 @@
 
 I make elegantly professional **💻 computer graphics and 🌐 computer vision** for a living and also **Write some blogs**. 🌈    
 
-* 🧐   Interested in full stack. Recent focus on fluid simulation with deep learning.
-* 💼   Have received special offer from Saudi Aramaco about High Performance Computing.
-* 🎓   Bachelor of Engineering in Computer Engineering and Art & Literature.
-* 🌱   Currently learning Math & Computers.
+* 🧐   Interested in full stack. Recent focus on physics simulation with large language models.
+* 💼   Have received special offer from Saudi Aramaco, Bytedance.
+* 🎓   Master Degree of Graphics, specially in Visual Computing.
+* 🌱   Currently learning Math & Computers & AI.
 * 📚   Reading more about C++, CUDA programming and numerical analysis.
-* 💻   With 4~5 years' computer science and technology education and 2 years' graphics working experience.
+* 💻   With 4~5 years' computer science and technology education and 4 years' graphics working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [website](https://sites.google.com/view/jiayao-zhang/home).
 * 📬   jiayao_zhang@outlook.com
