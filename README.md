@@ -7,7 +7,7 @@ I make elegantly professional **💻 computer graphics and 🌐 computer vision*
 * 🎓   Master Degree of Graphics, specially in Visual Computing.
 * 🌱   Currently learning Math & Computers & AI.
 * 📚   Reading more about C++, CUDA programming and numerical analysis.
-* 💻   With 4~5 years' computer science and technology education and 4 years' graphics working experience.
+* 💻   With 5~6 years' computer science and technology education and 4 years' graphics working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [website](https://sites.google.com/view/jiayao-zhang/home).
 * 📬   jiayao_zhang@outlook.com
